@@ -2,3 +2,10 @@
 # week1-assignment
 
 - XMLHttpRequest araştırılacak ve jsonplaceholder kullanılarak içerisindeki userlar console’a yazdırılacak.
+
+
+<p>To start this project, after cloning it type</p>
+<code>npm install</code> 
+<p>to install dependencies and type</p>
+<code>npm start</code>
+<p>to start the project.</p>
